@@ -5,5 +5,5 @@ Welcome to the Netflix Clone HTML/CSS project! This repository contains code for
 ## Features
 
 - HTML and CSS code for a Netflix-like user interface.
-- Responsive design principles implemented for better user experience.
+- Design principles implemented for better user experience.
 
